@@ -22,6 +22,7 @@ echo " "
 echo "$e Termux ka New session me hi Unpack hoga $e"
 echo " "
 sleep 2
+chmod -R 777 Maruf
 cd Maruf/Port
 tsu -c ./.unpackimg.sh
 cd ..
