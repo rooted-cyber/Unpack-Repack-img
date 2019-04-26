@@ -29,7 +29,7 @@ unzip Maruf.zip
 rm Maruf.zip
 sleep 5
 echo " "
-cd Unpack-Repack-Img
+cd Unpack-Repack-img
 cp unpackall /data/data/com.termux/files/usr/bin
 cp repackall /data/data/com.termux/files/usr/bin
 chmod 777 /data/data/com.termux/files/usr/bin/unpackall
