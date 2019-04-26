@@ -20,6 +20,7 @@ echo " "
 echo "$c Repack Ho Rha Hai $d"
 echo " "
 sleep 2
+chmod -R 777 Maruf
 cd Maruf/Port
 tsu -c ./.repackimg.sh
 cd ..
